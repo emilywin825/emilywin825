@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
+    <img src="1.jpg" alt="icon1"> <br>
+    <img src="2.jpg" alt="icon1"> <br>
+    <img src="3.jpg" alt="icon1"> <br>  
+ </div>
+
 <!--
 **emilywin825/emilywin825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
