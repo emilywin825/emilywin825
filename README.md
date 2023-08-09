@@ -7,7 +7,7 @@
  
  <div style="font-size: 50px;">▼▼▼▼▼▼▼▼▼▼▼▼▼ 클릭해보세요~~ ▼▼▼▼▼▼▼▼▼▼▼▼▼</div>
  
-  [notion!](https://www.notion.so/minjung-s-3a294a1b648740388a15102811fd8865)
+  [Portfolio!](https://www.notion.so/minjung-s-3a294a1b648740388a15102811fd8865)
    <img src="" alt="">
    <img src="" alt="">
    <img src="" alt="">
