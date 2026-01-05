@@ -36,8 +36,6 @@
 </div>
 
 ## 😎 It's Me 😎
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilywin825&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
